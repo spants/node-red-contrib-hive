@@ -19,8 +19,6 @@
         "nodes": {
             "hive": "hive.js",
             "Heating": "HeatingController.js",
-            "HotWater": "HotWaterController.js",
-            "Temperature": "Temperature.js"
         }
     }
 }
